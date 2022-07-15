@@ -1,0 +1,148 @@
+- class_name: "我的个人主页"
+  class_desc: "这就是我！"
+  link_list:
+    - name: "BiliBili"
+      link: img/linkico/bilibili.png
+      avatar: https://static.hdslb.com/mobile/img/512.png
+      # avatar: https://static.hdslb.com/mobile/img/512.png
+      descr: "我的BiliBili主页"
+    - name: "Github"
+      link: https://github.com/muyangplus
+      avatar: https://github.githubassets.com/favicons/favicon.svg
+      # avatar: https://github.githubassets.com/favicons/favicon.svg
+      descr: "我的Github主页"
+
+
+
+- class_name: "在线工具"
+  class_desc: "真的很实用！"
+  link_list:
+    - name: "空投快传"
+      link: https://airportal.cn/
+      avatar: img/linkico/airportal.png
+      # avatar: https://favicon.yandex.net/favicon/v2/https://airportal.cn/
+      descr: "一个可以跨设备传输文件的网站。"
+    - name: "奶牛快传"
+      link: https://cowtransfer.com/
+      avatar: img/linkico/cowtransfer.png
+      # avatar: https://background.c-t.work/ms-icon-144x144.png
+      descr: "免费大文件传输工具"
+    - name: "Aconvert"
+      link: https://www.aconvert.com/cn/
+      avatar: img/linkico/aconvert.png
+      # avatar: https://favicon.yandex.net/favicon/v2/https://www.aconvert.com/cn/
+      descr: "在线转换各类文件"
+    - name: "改图宝"
+      link: https://www.gaitubao.com/
+      avatar: img/linkico/gaitubao.png
+      # avatar: https://www.gaitubao.com/apple-touch-icon.png
+      descr: "在线修改照片大小尺寸工具"
+
+
+
+- class_name: "在线学习"
+  class_desc: "快来充实自己把！"
+  link_list:
+    - name: "NOI Online培训"
+      link: https://www.noi.cn/xw/2020-05-13/715542.shtml
+      avatar: /img/favicon.png
+      descr: "NOI钻石和NOI金牌教师担任主讲人"
+
+
+
+- class_name: "资源导航网站"
+  class_desc: "选择一个作为主页吧！"
+  link_list:
+    - name: "ooee收藏夹"
+      link: img/linkico/ooee.png
+      avatar: https://www.ooee.top/wp-content/uploads/2021/03/logo2.png
+      # avatar: https://www.ooee.top/wp-content/uploads/2021/03/logo2.png
+      descr: "搜集互联网各种优秀的网站网址"
+    - name: "编程导航"
+      link: img/linkico/code.png
+      avatar: https://www.code-nav.cn/
+      # avatar: https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/img/logo.png
+      descr: "发现优质编程学习资源"
+    - name: "书享家"
+      link: https://shuxiangjia.cn/
+      avatar: /img/favicon.png
+      descr: "电子书资源网站导航"
+    - name: "学吧导航"
+      link: https://www.xue8nav.com/
+      avatar: img/linkico/xue8.png
+      # avatar: https://www.xue8nav.com/wp-content/uploads/2020/01/favicon.png
+      descr: "自学资源网站导航"
+    - name: "科塔学术"
+      link: https://site.sciping.com/
+      avatar: img/linkico/sciping.ico
+      # avatar: https://site.sciping.com/images/fav.ico
+      descr: "学术资源网站导航"
+    - name: "Seeseed"
+      link: https://www.seeseed.com
+      avatar: img/linkico/seeseed.png
+      # avatar: https://www.seeseed.com/favicon.png
+      descr: "设计素材资源导航"
+
+
+
+- class_name: "工具导航网站"
+  class_desc: "选择一个作为主页吧！"
+  link_list:
+    - name: "Track黑客导航"
+      link: https://i.zkaq.cn/
+      avatar: img/linkico/zkz.ico
+      # avatar: https://i.zkaq.cn/static/images/icon/zkz.png
+      descr: "黑客工具导航"
+    - name: "阿猫阿狗导航"
+      link: https://dh.woshipm.com/
+      avatar: img/linkico/txtm.png
+      # avatar: https://dh.woshipm.com/wp-content/uploads/2022/01/txtm.png
+      descr: "互联网工具导航"
+    - name: "创造狮"
+      link: http://chuangzaoshi.com/index
+      avatar: img/linkico/chuangzaoshi.png
+      # avatar: http://chuangzaoshi.com/assets/images/favicon.png
+      descr: "互联网工具导航"
+    - name: "Addog"
+      link: https://www.addog.vip/
+      avatar: img/linkico/addog.png
+      # avatar: http://cdn.adguider.com/resource/images/icon_144-144.png
+      descr: "广告营销工具导航"
+    - name: "199it"
+      link: http://hao.199it.com/
+      avatar: img/linkico/199it.ico
+      # avatar: http://hao.199it.com/favicon.ico
+      descr: "大数据导航"
+    - name: "雪球导航"
+      link: https://xueqiu.com/dh
+      avatar: img/linkico/xueqiu.png
+      # avatar: https://assets.imedao.com/images/icon-144.png
+      descr: "财经工具导航"
+    - name: "打假导航"
+      link: http://www.dajiadaohang.com/
+      avatar: img/linkico/dajiadaohang.ico
+      # avatar: http://www.dajiadaohang.com/Public/Skins/favicon.ico
+      descr: "国家部门导航"
+
+
+
+- class_name: "聚合搜索平台"
+  class_desc: "选择一个作为主页吧！"
+  link_list:
+    - name: "青柠起始页"
+      link: https://limestart.cn/
+      avatar: img/linkico/limestart.png
+      # avatar: https://favicon.yandex.net/favicon/v2/https://limestart.cn/
+      descr: "一个简洁、美观、实用的浏览器起始页。"
+    - name: "一个开始"
+      link: https://aur.one/
+      avatar: img/linkico/aur_one.png
+      # avatar: https://aur.one/images/apple-touch-icon-114x114-precomposed.png
+      descr: "桌面主页，从这里开始。"
+    - name: "虫部落"
+      link: https://search.chongbuluo.com/
+      avatar: img/linkico/chongbuluo.ico
+      # avatar: https://search.chongbuluo.com/favicon.ico
+      descr: "快搜！"
+
+
