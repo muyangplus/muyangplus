@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ## 我是沐阳先生
 
 - 🔭 在校就读学生一枚
-- 👨‍💻 简介：<a href="https://muyangplus.js.cool/about" target="_blank">关于我</a>
+- 👨‍💻 简介：<a href="https://muyangplus.top/about" target="_blank">关于我</a>
 - 🏡 作品：<a href="https://github.com/muyangplus/QuickVerifies" target="_blank">戴口罩的人脸识别</a> | <a href="https://github.com/muyangplus/GameOfLife" target="_blank">生命游戏</a>
-- 🌱 干货：<a href="https://muyangplus.js.cool" target="_blank">我的博客</a>
+- 🌱 干货：<a href="https://muyangplus.top" target="_blank">我的博客</a>
 - 😺 视频：<a href="https://space.bilibili.com/313199379" target="_blank">B站 沐阳家的先生</a>
 - 📫 邮箱：muyangplus@outlook.com（请备注事由）
 
