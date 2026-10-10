@@ -1,27 +1,43 @@
-<!--
-**muyangplus/muyangplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 沐阳先生
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**全栈开发 · AI 与图像处理 · 竞赛 / OI 工具链**
 
-## 我是沐阳先生
+🌐 [博客](https://www.muyangplus.top) ｜ 📖 [关于我](https://www.muyangplus.top/about) ｜ 📺 [B 站](https://space.bilibili.com/313199379) ｜ 📧 [muyangplus@163.com](mailto:muyangplus@163.com)
 
-- 🔭 在校就读学生一枚
-- 👨‍💻 简介：<a href="https://muyangplus.top/about" target="_blank">关于我</a>
-- 🏡 作品：<a href="https://github.com/muyangplus/QuickVerifies" target="_blank">戴口罩的人脸识别</a> | <a href="https://github.com/muyangplus/GameOfLife" target="_blank">生命游戏</a>
-- 🌱 干货：<a href="https://muyangplus.top" target="_blank">我的博客</a>
-- 😺 视频：<a href="https://space.bilibili.com/313199379" target="_blank">B站 沐阳家的先生</a>
-- 📫 邮箱：muyangplus@outlook.com（请备注事由）
+</div>
 
-## 今年汇总 ✨
+---
 
-<img align="" height="137px" src="https://github-readme-stats.muyangplus.top/api?username=muyangplus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.muyangplus.top/api/top-langs/?username=muyangplus&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+## 🙋 关于我
+
+- 🧭 主要在做：**竞赛 / OI 工具链** · **在线评测与考试系统** · **自动化运营平台** · **跨端小工具**
+- 🌱 喜欢把重复劳动交给工具，顺手做成 **DeepSeek Harness** 的插件 / Skill
+- 📦 公开仓库以 Python / TypeScript / C++ 为主，另有若干科研与全栈项目暂未开源
+- 📫 找我：**muyangplus@163.com**（请备注事由）
+
+---
+
+## 🧰 技术栈
+
+| 方向 | 技术 |
+| :--- | :--- |
+| **编程语言** | Java · C++ · Python · C# |
+| **后端开发** | Spring Boot · ASP.NET |
+| **前端与移动端** | Vue 3 · uni-app |
+| **数据存储** | MySQL · Redis |
+| **AI 与图像处理** | TensorFlow · PyTorch · OpenCV |
+| **工业互联网** | 工业互联网平台架构 |
+| **嵌入式** | 树莓派 |
+| **运维与部署** | Linux · Nginx · CI/CD · 云服务器部署 |
+
+---
+
+## 📊 GitHub 统计
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.muyangplus.top/api?username=muyangplus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img height="150" src="https://github-readme-stats.muyangplus.top/api/top-langs/?username=muyangplus&hide_title=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+</div>
